@@ -29,7 +29,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 211,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-kanemori-0001",
@@ -2998,7 +3001,7 @@
   "blocks": 211,
   "chars": 4924,
   "poems": 211,
-  "yaku": 0,
+  "yaku": 211,
   "editions": 1,
   "updated": "2026-11-03",
   "updated_at": "2026-11-03T18:28:24+09:00"
